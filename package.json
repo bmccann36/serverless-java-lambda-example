@@ -1,0 +1,20 @@
+{
+  "name": "serverless-java-lambda-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build:deploy": "./gradlew build && sls deploy --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmccann36/serverless-java-lambda-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bmccann36/serverless-java-lambda-example/issues"
+  },
+  "homepage": "https://github.com/bmccann36/serverless-java-lambda-example#readme"
+}
